@@ -582,6 +582,29 @@ strong {
   padding: 65px;
 }
 
+/*---------------------------------------
+  PARTNERS               
+-----------------------------------------*/
+.partners-section {
+  background-image: url('../images/salon-front-3.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.partners-bg {
+  text-decoration-color: var(--white-color);
+  border-radius: var(--border-radius-medium);
+  padding: 40px;
+}
+
+.rowsss{
+  display: inline-block;
+  padding-inline-end: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
 /*---------------------------------------
   CONTACT               
